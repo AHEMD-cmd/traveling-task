@@ -1,0 +1,11 @@
+{
+    "name": "ProgramHotel",
+    "alias": "programhotel",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProgramHotel\\Providers\\ProgramHotelServiceProvider"
+    ],
+    "files": []
+}
